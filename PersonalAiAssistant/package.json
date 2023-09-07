@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "faiss-node": "^0.3.0",
+    "langchain": "^0.0.145",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^3.10.111"
+  }
+}
