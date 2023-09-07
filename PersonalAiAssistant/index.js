@@ -4,7 +4,7 @@ const { FaissStore } =require("langchain/vectorstores/faiss");
 const { PDFLoader } =require( "langchain/document_loaders/fs/pdf")
 const {OpenAI} =require("langchain/llms/openai")
 const  { loadQAStuffChain } =require("langchain/chains");
-const openAIApiKey= "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"
+const openAIApiKey= "API_KEY"
 
 
 async function ReadFile(){
